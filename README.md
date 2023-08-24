@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects focused on data analysis.**
 
-- 🌱 I’m currently learning/developing myself in **Python, R and SQL.**
+- 🌱 I’m currently learning/developing myself in **Python and SQL.**
 
 - 📫 How to reach me: **jeniffer.sanches@outlook.com**
 
